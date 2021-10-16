@@ -30,7 +30,7 @@ ethAmountButton.onclick = async () => {
         //Create contract insntance and send eth amount.
     }
     else{
-        alert("The amount you are trying to send is more than your wallet balance!");
+        alert("Your wallet balance (" + ethBalance + " ETH) is too low!");
     }  
 }
 
