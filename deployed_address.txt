@@ -1,0 +1,4 @@
+Network: Kovan
+Addresses: 
+    - Lottery.sol: 0xeD951573076D0848A3Ff41Bc4d9760A49AF1Fdb2
+    - Random.sol: 0x4310De173D27b6DFc1259Bd9a1767A067eBD6532
