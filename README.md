@@ -1,4 +1,4 @@
-# Decentralized Lottery System
+# Decentralized Lottery 
 The goal of this project is to develop a decentralized lottery system for the Ethereum Blockchain. The idea is to allow a user to anonymously partake in the lottery and to win the funds from a lottery pool if they have been randomly selected.
 
 Lottery Dapp Workflow
