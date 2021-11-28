@@ -31,8 +31,9 @@ The following highlights the important directories within the project:
 # Running Project
 - Ensure Metamask is on the Kovan test network.
 - Click the Enable Metamask button to connect your account(s) to the site.
-- Enter a duration for the lottery in seconds in the "Sec" box (for e.g. 180 seconds for 3 minutes) then press start.
+- Enter a duration for the lottery in seconds in the "Sec" box (for e.g. 180 seconds for 3 minutes) then press start and wait for the lottery to open.
 - Select an account from Metamask, enter an amount in the "ETH" box then click submit.
+- Wait for the lottery to draw after the duration has passed.
 
 # Running Unit Tests
 - In a terminal from the project root run "truffle test" (Uses the builtin test network within truffle).
