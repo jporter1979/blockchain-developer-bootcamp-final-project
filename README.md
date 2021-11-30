@@ -36,7 +36,7 @@ The following highlights the important directories within the project:
 - Wait for the lottery to draw after the duration has passed.
 
 # Running Unit Tests
-- In a terminal from the project root run "truffle test" (Uses the builtin test network within truffle).
+- In a terminal from the project root run "truffle test" (Uses the builtin 'test' network within truffle).
 
 # Screencast
 https://youtu.be/Vt5622DCFfk 
